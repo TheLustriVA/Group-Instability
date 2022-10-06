@@ -13,3 +13,5 @@ Generate AI images over at [our Discord server.](https://discord.gg/UnstableDiff
 GInsta is currently being tested before launch. 
 
 ![Dragon_12](https://user-images.githubusercontent.com/87247317/194306047-5f43ed17-4ef1-4ade-8bdf-05b326f2cebc.png)
+
+GInsta is a fork of the great work done by db0 for [AI-Horde.](https://github.com/db0/AI-Horde)
